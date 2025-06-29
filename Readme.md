@@ -22,7 +22,7 @@
 
 - Flow Field Pathfinding
 
-- Input ManageR
+- Input Manager
 
 ---
 
@@ -30,7 +30,7 @@
 
 1. Tải về toàn bộ project
 
-2. Chọn file "Input Manager.exe" để bắt đầu trò chơi
+2. Chọn file "InputManager.exe" để bắt đầu trò chơi
 
 3. Trong giao diện Main Menu
    
