@@ -2,7 +2,7 @@
 
 > **Unity 3D Game Project - Single Player Zombie Survival**
 > 
-> **Zombie Assault** là một game hành động góc nhìn thứ ba, nơi người chơi phải sinh tồn bằng cách **tiêu diệt toàn bộ lũ zombie** trong mỗi màn chơi.
+> **Zombie Assault** là một game hành động góc nhìn thứ nhất, nơi người chơi phải sinh tồn bằng cách **tiêu diệt toàn bộ zombie** trong mỗi màn chơi.
 
 ---
 
